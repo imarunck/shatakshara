@@ -1,15 +1,12 @@
-# Shatakshara(99toGo) -one font at a time.
-1/100\
-a project celebrating the Kannada language and heritage. We will create 100 open-source Kannada fonts together, preserving its beauty for the digital age. Join us on this creative journey to shape the future of Kannada typography, one font at a time.
+# ಶತಾಕ್ಷರ / Shatakshara
+* ಕನ್ನಡ ಭಾಷೆಗಾಗಿ ನಾವು ೧೦೦ ಓಪನ್ ಸೋರ್ಸ್ ಕನ್ನಡ ಫಾಂಟ್‌ಗಳನ್ನು ರಚಿಸೊಣ, ಡಿಜಿಟಲ್ ಯುಗದಲ್ಲಿ ಕನ್ನಡದ ಅಕ್ಷರಗಳ ಅಂದವನ್ನು ಹೆಚ್ಚಿಸೋಣ.
+* ಈ ಯೋಜನೆಯಲ್ಲಿ  ನಮ್ಮೊಂದಿಗೆ ಸೇರಿ, -ಒಂದು ಬಾರಿಗೆ ಒಂದು ಫಾಂಟ್.
+# 
+* Let us create 100 open-source Kannada fonts for the Kannada language, and enhance the beauty of Kannada characters in the digital age.
+* Join us on this project, -one font at a time.
 
-# Community
+# ಕೊಡುಗೆ ನೀಡಲು ಸಮುದಾಯಕ್ಕೆ ಸೇರಿಕೊಳ್ಳಿ / Join the community to contribute
 👉[Telegram](https://telegram.me/shatakshara)
 
-# Mission
-* Empowering the Kannada language through 100 open-source fonts, fostering cultural preservation and accessibility for all.
-  
-# Vision
-* A vibrant Kannada script ecosystem, fuelled by collaboration, supporting language diversity and digital expression.
-
-# Fonts Created with the support of the "Shatakshara" Kannada Font Project
-1. [Anchu](https://github.com/imarunck/anchu) - 01/05/2023
+# "ಶತಕ್ಷರ" ಯೋಜನೆಯೊಂದಿಗೆ ರಚಿಸಲಾದ ಫಾಂಟ್‌ಗಳು / Fonts Created with the "Shatakshara" Project
+1. [ಅಂಚು / Anchu](https://github.com/imarunck/anchu) - 01/05/2023
