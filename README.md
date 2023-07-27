@@ -1,4 +1,4 @@
-# ಶತಾಕ್ಷರ
+# Shatakshara
 ೧/೧೦೦\
 a project celebrating the Kannada language and heritage. We will create 100 open-source Kannada fonts together, preserving its beauty for the digital age. Join us on this creative journey to shape the future of Kannada typography, one font at a time.
 
@@ -12,4 +12,4 @@ a project celebrating the Kannada language and heritage. We will create 100 open
 * A vibrant Kannada script ecosystem, fuelled by collaboration, supporting language diversity and digital expression.
 
 # Fonts Created with the support of the "Shatakshara" Kannada Font Project
-1. [Anchu](https://github.com/imarunck/anchu)
+1. [Anchu](https://github.com/imarunck/anchu) - 01/05/2023
