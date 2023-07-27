@@ -8,5 +8,5 @@
 # ಕೊಡುಗೆ ನೀಡಲು ಸಮುದಾಯಕ್ಕೆ ಸೇರಿಕೊಳ್ಳಿ / Join the community to contribute
 👉[Telegram](https://telegram.me/shatakshara)
 
-# "ಶತಕ್ಷರ" ಯೋಜನೆಯೊಂದಿಗೆ ರಚಿಸಲಾದ ಫಾಂಟ್‌ಗಳು / Fonts Created with the "Shatakshara" Project
+# ಶತಾಕ್ಷರ ಯೋಜನೆಯೊಂದಿಗೆ ರಚಿಸಲಾದ ಫಾಂಟ್‌ಗಳು / Fonts Created with the Shatakshara Project
 1. [ಅಂಚು / Anchu](https://github.com/imarunck/anchu) - 01/05/2023
