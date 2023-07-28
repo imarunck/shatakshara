@@ -6,7 +6,7 @@
 * Join us on this project, -one font at a time.
 # 
 * ಕೊಡುಗೆ ನೀಡಲು ಸಮುದಾಯಕ್ಕೆ ಸೇರಿಕೊಳ್ಳಿ / Join the community to contribute\
-👉[Telegram](https://telegram.me/shatakshara)
+👉[ಟೆಲಿಗ್ರಾಮ್ / Telegram](https://telegram.me/shatakshara)
 # 
 ಶತಾಕ್ಷರ ಯೋಜನೆಯೊಂದಿಗೆ ರಚಿಸಲಾದ ಫಾಂಟ್‌ಗಳು (೧/೧೦೦) / Fonts Created with the Shatakshara Project (1/100)
 1. [ಅಂಚು / Anchu](https://github.com/imarunck/anchu) - 01/05/2023
