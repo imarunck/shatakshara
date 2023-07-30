@@ -1,6 +1,7 @@
 # ಶತಾಕ್ಷರ / Shatakshara
 * ಕನ್ನಡ ಭಾಷೆಗಾಗಿ ನಾವು ೧೦೦ ಓಪನ್ ಸೋರ್ಸ್ ಕನ್ನಡ ಫಾಂಟ್‌ಗಳನ್ನು ರಚಿಸೊಣ, ಡಿಜಿಟಲ್ ಯುಗದಲ್ಲಿ ಕನ್ನಡದ ಅಕ್ಷರಗಳ ಅಂದವನ್ನು ಹೆಚ್ಚಿಸೋಣ.
-* ಈ ಯೋಜನೆಯಲ್ಲಿ  ನಮ್ಮೊಂದಿಗೆ ಸೇರಿ, -ಒಂದು ಬಾರಿಗೆ ಒಂದು ಫಾಂಟ್.
+* ಈ ಯೋಜನೆಯಲ್ಲಿ  ನಮ್ಮೊಂದಿಗೆ ಸೇರಿ -[ಟೆಲಿಗ್ರಾಮ್](https://telegram.me/shatakshara)
+* -ಒಂದು ಬಾರಿಗೆ ಒಂದು ಫಾಂಟ್.
 # 
 * Let us create 100 open-source Kannada fonts for the Kannada language, and enhance the beauty of Kannada characters in the digital age.
 * Join us on this project, -one font at a time.
