@@ -4,7 +4,8 @@
 * -ಒಂದು ಬಾರಿಗೆ ಒಂದು ಫಾಂಟ್.
 # 
 * Let us create 100 open-source Kannada fonts for the Kannada language, and enhance the beauty of Kannada characters in the digital age.
-* Join us on this project, -one font at a time.
+* Join us on this project, -[Telegram](https://telegram.me/shatakshara)
+* -one font at a time.
 # 
 * ಕೊಡುಗೆ ನೀಡಲು ಸಮುದಾಯಕ್ಕೆ ಸೇರಿಕೊಳ್ಳಿ / Join the community to contribute\
 👉[ಟೆಲಿಗ್ರಾಮ್ / Telegram](https://telegram.me/shatakshara)
