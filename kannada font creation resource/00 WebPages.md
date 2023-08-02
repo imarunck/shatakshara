@@ -2,4 +2,5 @@
 * [wikipedia-org-Kannada_script](https://en-m-wikipedia-org.translate.goog/wiki/Kannada_script?_x_tr_sl=en&_x_tr_tl=kn&_x_tr_hl=kn&_x_tr_pto=tc)
 * [Girish Dalvi](http://www.idc.iitb.ac.in/~girish/academic.html)
 * [British Library](https://www.bl.uk/collection-guides/kannada)
-* [design.google](https://design.google/library/anek-multiscript)
+* [design.google-anek](https://design.google/library/anek-multiscript)
+* [design.google-Tiro](https://design.google/library/new-Indic-fonts)
