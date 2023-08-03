@@ -4,3 +4,4 @@
 * [British Library](https://www.bl.uk/collection-guides/kannada)
 * [design.google-anek](https://design.google/library/anek-multiscript)
 * [design.google-Tiro](https://design.google/library/new-Indic-fonts)
+* [kagapa](https://kagapa.in/kannada/content/%E0%B2%A4%E0%B2%82%E0%B2%A4%E0%B3%8D%E0%B2%B0%E0%B2%BE%E0%B2%82%E0%B2%B6%E0%B2%97%E0%B2%B3%E0%B3%81)
