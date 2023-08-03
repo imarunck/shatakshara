@@ -6,3 +6,4 @@
 * [design.google-Tiro](https://design.google/library/new-Indic-fonts)
 * [kagapa](https://kagapa.in/kannada/content/%E0%B2%A4%E0%B2%82%E0%B2%A4%E0%B3%8D%E0%B2%B0%E0%B2%BE%E0%B2%82%E0%B2%B6%E0%B2%97%E0%B2%B3%E0%B3%81)
 * [wikipedia-ಕನ್ನಡ](https://kn.wikipedia.org/wiki/%E0%B2%95%E0%B2%A8%E0%B3%8D%E0%B2%A8%E0%B2%A1)
+* [How Unicode Characters Become Glyphs on Your Screen](https://www.youtube.com/watch?v=bt4MwIpcp2M)
