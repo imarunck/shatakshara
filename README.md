@@ -9,6 +9,9 @@
 # 
 * ಕೊಡುಗೆ ನೀಡಲು ಸಮುದಾಯಕ್ಕೆ ಸೇರಿಕೊಳ್ಳಿ / Join the community to contribute\
 👉[ಟೆಲಿಗ್ರಾಮ್ / Telegram](https://telegram.me/shatakshara)
-# 
-ಶತಾಕ್ಷರ ಯೋಜನೆಯೊಂದಿಗೆ ರಚಿಸಲಾದ ಫಾಂಟ್‌ಗಳು (೧/೧೦೦) / Fonts Created with the Shatakshara Project (1/100)
+# ಸಂಪನ್ಮೂಲಗಳು / resource
+* [ಸಂಪನ್ಮೂಲಗಳು /resource to create kannada font](https://github.com/imarunck/shatakshara/tree/c74401b0511b66da5f84f1c5bcb67f80ec57f52d/kannada%20font%20creation%20resource) 
+* [ವೆಬ್ ಪುಟಗಳು / WebPages](https://github.com/imarunck/shatakshara/blob/c74401b0511b66da5f84f1c5bcb67f80ec57f52d/kannada%20font%20creation%20resource/00%20WebPages.md)
+
+# ಶತಾಕ್ಷರ ಯೋಜನೆಯೊಂದಿಗೆ ರಚಿಸಲಾದ ಫಾಂಟ್‌ಗಳು (೧/೧೦೦) / Fonts Created with the Shatakshara Project (1/100)
 1. [ಅಂಚು / Anchu](https://github.com/imarunck/anchu) - 01/05/2023
