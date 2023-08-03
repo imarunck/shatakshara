@@ -3,6 +3,7 @@
 * [design.google-anek](https://design.google/library/anek-multiscript)
 * [design.google-Tiro](https://design.google/library/new-Indic-fonts)
 * [How Unicode Characters Become Glyphs on Your Screen](https://www.youtube.com/watch?v=bt4MwIpcp2M)
+* [The Evolution of a Font](https://www.youtube.com/watch?v=0MUFEPxCKEc)
 * [Developing OpenType Fonts for Kannada Script-microsoft](https://learn-microsoft-com.translate.goog/en-us/typography/script-development/kannada?_x_tr_sl=en&_x_tr_tl=kn&_x_tr_hl=kn&_x_tr_pto=tc)
 * [wikipedia-org-Kannada_script](https://en-m-wikipedia-org.translate.goog/wiki/Kannada_script?_x_tr_sl=en&_x_tr_tl=kn&_x_tr_hl=kn&_x_tr_pto=tc)
 * [Girish Dalvi](http://www.idc.iitb.ac.in/~girish/academic.html)
