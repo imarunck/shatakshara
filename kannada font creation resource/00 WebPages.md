@@ -23,4 +23,3 @@
 -free and open source font editor
 * [Inkscape](https://inkscape.org/release/inkscape-1.3/windows/64-bit/msi/?redirected=1)
 -Inkscape is a free and open-source vector graphics editor
-* 
