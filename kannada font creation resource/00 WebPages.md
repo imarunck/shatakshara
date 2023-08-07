@@ -19,5 +19,8 @@
 * [An Introduction to Indic Scripts](https://www.w3.org/2002/Talks/09-ri-indic/indic-paper.pdf)
 * [A Guide To Indian Language Font Development](https://thottingal.in/documents/Fontbook.pdf)
 # tools
-* [FontForge  -free and open source font editor](https://fontforge.org/en-US/downloads/)
-* [Inkscape  -Inkscape is a free and open-source vector graphics editor](https://inkscape.org/release/inkscape-1.3/windows/64-bit/msi/?redirected=1)
+* [FontForge](https://fontforge.org/en-US/downloads/)
+-free and open source font editor
+* [Inkscape](https://inkscape.org/release/inkscape-1.3/windows/64-bit/msi/?redirected=1)
+-Inkscape is a free and open-source vector graphics editor
+* 
