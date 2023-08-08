@@ -1,4 +1,5 @@
-# websites & pages
+# Web_Resources
+## 1. webpages
 * [indic.page](https://indic.page/)
 * [ಕನ್ನಡ ಫಾಂಟ್ ಲೈಬ್ರರಿ](https://imarunck.github.io/Kannada-Font-Library/)
 * [design.google-anek](https://design.google/library/anek-multiscript)
@@ -14,14 +15,14 @@
 * [Sakal Bharati](https://www.cdac.in/index.aspx?id=dl_sakal_bharati_font)
 * [Microsoft I​ndic Language Input Tool (ILIT)](https://www.microsoft.com/en-in/bhashaindia/downloads.aspx)
 * [Google Input Tools](https://www.google.com/inputtools/)
-# papers
+## 2. papers
 * [Typography, Sensitivity and Fineness](https://www.typoday.in/2015/spk_papers/Pradnya_Naik-Typographyday2015.pdf)
 * [An Introduction to Indic Scripts](https://www.w3.org/2002/Talks/09-ri-indic/indic-paper.pdf)
 * [A Guide To Indian Language Font Development](https://thottingal.in/documents/Fontbook.pdf)
-# tools
+## 3. tools
 * [FontForge](https://fontforge.org/en-US/downloads/)
 -free and open source font editor
 * [Inkscape](https://inkscape.org/release/inkscape-1.3/windows/64-bit/msi/?redirected=1)
 -Inkscape is a free and open-source vector graphics editor
-# GitHub
+## 4. GitHub
 * [hind-mysuru](https://github.com/itfoundry/hind-mysuru)
