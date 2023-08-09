@@ -1,8 +1,9 @@
 # Web_Resources
 
 ## Unicode
-* [01 The Unicode Standard, Version 15.0 (U0C80).pdf](https://drive.google.com/file/d/1zCUxAaHKLLRnCd1t2daPRSoaDwiYkLh-/view?usp=sharing)
-* 
+* 01 [The Unicode Standard, Version 15.0 (U0C80).pdf](https://drive.google.com/file/d/1zCUxAaHKLLRnCd1t2daPRSoaDwiYkLh-/view?usp=sharing)
+* 02 [0C80 Unicode Kannada Layout.pdf](https://drive.google.com/file/d/1ED8jZwg3LD_9LbTy8WCn3DFa5_AV64CV/view?usp=sharing)
+* 03 [UNICODE for Kannada U+0C80 to U+0CFF by C V Srinatha Sastry](https://drive.google.com/file/d/1HFUdrneQ3vR0Nji6pzDcVK38Rk4OgLWv/view?usp=sharing)
 ## 1. webpages
 * [indic.page](https://indic.page/)
 * [ಕನ್ನಡ ಫಾಂಟ್ ಲೈಬ್ರರಿ](https://imarunck.github.io/Kannada-Font-Library/)
