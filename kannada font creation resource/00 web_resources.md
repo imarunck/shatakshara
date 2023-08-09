@@ -1,4 +1,8 @@
 # Web_Resources
+
+## Unicode
+* [01 The Unicode Standard, Version 15.0 (U0C80).pdf](https://drive.google.com/file/d/1zCUxAaHKLLRnCd1t2daPRSoaDwiYkLh-/view?usp=sharing)
+* 
 ## 1. webpages
 * [indic.page](https://indic.page/)
 * [ಕನ್ನಡ ಫಾಂಟ್ ಲೈಬ್ರರಿ](https://imarunck.github.io/Kannada-Font-Library/)
