@@ -9,6 +9,9 @@
 5. [UNITED NATIONS ROMANIZATION SYSTEMS FOR GEOGRAPHICAL NAMES.pdf](https://drive.google.com/file/d/1OIVT15rsVni1AsFc7WVP2vXnWDObuUqm/view?usp=sharing)
 6. [UCA_ Kannada.pdf](https://drive.google.com/file/d/1eXlwUHB3UK0LVHG0Nz5Y3GtPUg3uzIVg/view?usp=sharing)
 7. [ಯುನಿಕೋಡ್ ಎಂದರೇನು.pdf](https://drive.google.com/file/d/1lwXqMBwehb70JMiZUj_aAcbl5wpKS5Ax/view?usp=sharing)
+8. [fontsurvey kannada.pdf](https://drive.google.com/file/d/1QF8rGGEACh36_7j-en8HiIoCzeJVgWFv/view?usp=sharing)
+9. [chukki-screen.pdf](https://chukki.files.wordpress.com/2008/06/chukki-screen.pdf)
+10. [Scripts (ISO 15924) “Kannada”](https://www.compart.com/en/unicode/scripts/Knda)
 ## 1. webpages
 * [indic.page](https://indic.page/)
 * [ಕನ್ನಡ ಫಾಂಟ್ ಲೈಬ್ರರಿ](https://imarunck.github.io/Kannada-Font-Library/)
