@@ -6,12 +6,9 @@
 * Let us create 100 open-source Kannada fonts for the Kannada language, and enhance the beauty of Kannada characters in the digital age.
 * Join us on this project, -[Telegram](https://telegram.me/shatakshara)
 * -one font at a time.
-# 
-* ಕೊಡುಗೆ ನೀಡಲು ಸಮುದಾಯಕ್ಕೆ ಸೇರಿಕೊಳ್ಳಿ / Join the community to contribute\
+### ಕೊಡುಗೆ ನೀಡಲು ಸಮುದಾಯಕ್ಕೆ ಸೇರಿಕೊಳ್ಳಿ / Join the community to contribute
 👉[ಟೆಲಿಗ್ರಾಮ್ / Telegram](https://telegram.me/shatakshara)
-# ಸಂಪನ್ಮೂಲಗಳು / resource
-* [ಸಂಪನ್ಮೂಲಗಳು /resource to create kannada font](https://github.com/imarunck/shatakshara/tree/main/kannada%20font%20creation%20resource) 
-* [ವೆಬ್ ಪುಟಗಳು / WebPages](https://github.com/imarunck/shatakshara/blob/main/kannada%20font%20creation%20resource/00%20web_resources.md)
-
-# ಶತಾಕ್ಷರ ಯೋಜನೆಯೊಂದಿಗೆ ರಚಿಸಲಾದ ಫಾಂಟ್‌ಗಳು (೧/೧೦೦) / Fonts Created with the Shatakshara Project (1/100)
+### ಸಂಪನ್ಮೂಲಗಳು / resource
+* [ಸಂಪನ್ಮೂಲಗಳು /resource](https://github.com/imarunck/shatakshara/blob/main/01%20resources.md)
+### ಶತಾಕ್ಷರ ಯೋಜನೆಯೊಂದಿಗೆ ರಚಿಸಲಾದ ಫಾಂಟ್‌ಗಳು (೧/೧೦೦) / Fonts Created with the Shatakshara Project (1/100)
 1. [ಅಂಚು / Anchu](https://github.com/imarunck/anchu) - 01/05/2023
