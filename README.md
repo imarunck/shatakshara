@@ -7,8 +7,8 @@
 * Join us on this project, -[Telegram](https://telegram.me/shatakshara)
 * -one font at a time.
 ### ಕೊಡುಗೆ ನೀಡಲು ಸಮುದಾಯಕ್ಕೆ ಸೇರಿಕೊಳ್ಳಿ / Join the community to contribute
-👉[ಟೆಲಿಗ್ರಾಮ್ / Telegram](https://telegram.me/shatakshara)
+👉 [ಟೆಲಿಗ್ರಾಮ್ / Telegram](https://telegram.me/shatakshara)
 ### ಸಂಪನ್ಮೂಲಗಳು / resource
-* [ಸಂಪನ್ಮೂಲಗಳು /resource](https://github.com/imarunck/shatakshara/blob/main/01%20resources.md)
+👉 [ಸಂಪನ್ಮೂಲಗಳು /resource](https://github.com/imarunck/shatakshara/blob/main/01%20resources.md)
 ### ಶತಾಕ್ಷರ ಯೋಜನೆಯೊಂದಿಗೆ ರಚಿಸಲಾದ ಫಾಂಟ್‌ಗಳು (೧/೧೦೦) / Fonts Created with the Shatakshara Project (1/100)
 1. [ಅಂಚು / Anchu](https://github.com/imarunck/anchu) - 01/05/2023
