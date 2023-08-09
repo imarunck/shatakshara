@@ -7,6 +7,8 @@
 4. [Consonant conjuncts Unicode for Kannada Script by C V SRINATHA SASTRY.pdf
 ](https://drive.google.com/file/d/1z6Ecn7iM-39J6Z8VGVFDDh1rriZnYlk2/view?usp=sharing)
 5. [UNITED NATIONS ROMANIZATION SYSTEMS FOR GEOGRAPHICAL NAMES.pdf](https://drive.google.com/file/d/1OIVT15rsVni1AsFc7WVP2vXnWDObuUqm/view?usp=sharing)
+6. [UCA_ Kannada.pdf](https://drive.google.com/file/d/1eXlwUHB3UK0LVHG0Nz5Y3GtPUg3uzIVg/view?usp=sharing)
+7. [ಯುನಿಕೋಡ್ ಎಂದರೇನು.pdf](https://drive.google.com/file/d/1lwXqMBwehb70JMiZUj_aAcbl5wpKS5Ax/view?usp=sharing)
 ## 1. webpages
 * [indic.page](https://indic.page/)
 * [ಕನ್ನಡ ಫಾಂಟ್ ಲೈಬ್ರರಿ](https://imarunck.github.io/Kannada-Font-Library/)
