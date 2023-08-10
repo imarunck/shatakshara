@@ -12,3 +12,4 @@
 👉 [ಸಂಪನ್ಮೂಲಗಳು /resource](https://github.com/imarunck/shatakshara/blob/main/01%20resources.md)
 ### ಶತಾಕ್ಷರ ಯೋಜನೆಯೊಂದಿಗೆ ರಚಿಸಲಾದ ಫಾಂಟ್‌ಗಳು (೧/೧೦೦) / Fonts Created with the Shatakshara Project (1/100)
 1. [ಅಂಚು / Anchu](https://github.com/imarunck/anchu) - 01/05/2023
+#
