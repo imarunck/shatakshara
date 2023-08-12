@@ -40,3 +40,5 @@
 ## 5. GitHub
 * [Anek Font Family](https://github.com/EkType/Anek)
 * [hind-mysuru](https://github.com/itfoundry/hind-mysuru)
+## 6. licencing/copyright
+* [ಕ್ರಿಯೇಟೀವ್ ಕಾಮನ್ಸ್ ಕನ್ನಡ - ೧೦೧](https://play.google.com/store/books/details?id=o_UFEAAAQBAJ)
