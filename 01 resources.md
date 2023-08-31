@@ -29,6 +29,7 @@
 * [Microsoft I​ndic Language Input Tool (ILIT)](https://www.microsoft.com/en-in/bhashaindia/downloads.aspx)
 * [Google Input Tools](https://www.google.com/inputtools/)
 * [ಯೂನಿಕೋಡ್ ಆಧಾರಿತ ಕನ್ನಡ ತಂತ್ರಾಂಶಗಳು](https://kanaja.karnataka.gov.in/softwares/)
+* [Open Educational Resources for Typography](https://www.oert.org/en/)
 ## 3. papers
 * [Typography, Sensitivity and Fineness](https://www.typoday.in/2015/spk_papers/Pradnya_Naik-Typographyday2015.pdf)
 * [An Introduction to Indic Scripts](https://www.w3.org/2002/Talks/09-ri-indic/indic-paper.pdf)
